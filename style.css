@@ -1,0 +1,51 @@
+body {
+    background-color: #30336b;
+    margin: 5% 20%;
+    color: #ecb8a5;
+    font-family: Arial, "sans serif";
+  }
+  p{
+    margin: 0 13%;
+    color: #ecb8a5;;
+  }
+  h1 { 
+    padding-bottom: 5%;
+    font-size: 40px;
+    font-family: 'Fresca', sans-serif;
+  }
+  
+  header {
+    padding: 0;
+    margin: 0 15%;
+  }
+  .CheckBox {
+    padding: 10% ;
+    margin: 3% 5%;
+    background-color: #130f40;
+    text-align: center;
+  }
+  .CheckBox h1{
+    margin: 2px;
+  }
+  input{
+    padding: 10px 10px;
+    margin: 2%;
+  }
+  button {
+    margin: 2%;
+    padding: 10px 10px;
+  }
+  
+  #rules {
+    padding-top: 2%;
+    display: none;
+  }
+  
+  #rules ul li {
+    text-align: left;
+  }
+  
+  #error {
+    color: red;
+    display : none;
+  }
